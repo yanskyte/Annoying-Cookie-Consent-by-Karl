@@ -128,6 +128,10 @@ main{
     cursor: pointer;
 }
 
+.modal-btns-reverse{
+    flex-direction: row-reverse;
+}
+
 /* modal input */
 
 input{
@@ -164,3 +168,4 @@ input{
     box-shadow: 1px 1px 3px #999;
     border-radius: 5px;
 }
+
