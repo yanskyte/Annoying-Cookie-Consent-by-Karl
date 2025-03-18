@@ -6,7 +6,7 @@ const declineBtn = document.getElementById('decline-btn')
 const modalChoiceBtns = document.getElementById('modal-choice-btns')
 
 setTimeout(function(){
-    modal.style.display = 'inline'
+    modal.style.display = 'flex'
 }, 1500)
 
 modalCloseBtn.addEventListener('click', function(){
